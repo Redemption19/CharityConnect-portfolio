@@ -4,16 +4,16 @@
 
 CharityConnect is a static website designed to connect people with various charitable causes and organizations. The website aims to promote awareness and facilitate donations for different social causes. This README.md provides an overview of the project, including installation instructions, usage guidelines, and information about contributing.
 
-    * Deployed Site: {CharityConnect](https://redemption19.github.io/CharityConnect-portfolio/)
+    * Deployed Site:[CharityConnect](https://redemption19.github.io/CharityConnect-portfolio/)
     * Final Project Blog Article: CharityConnect Project Blog
     * Author LinkedIn:
-        * Bismark Abban: [Linkdin Profile](https://www.linkedin.com/in/bismark-abban-256055193/)
+        * Bismark Abban:[Linkdin Profile](https://www.linkedin.com/in/bismark-abban-256055193/)
         
     * Author Facebook:
-        * Bismark Abban: [Facebook Profile](https://web.facebook.com/bismark.abban.58511/)
+        * Bismark Abban:[Facebook Profile](https://web.facebook.com/bismark.abban.58511/)
         
     * Author Instagram:
-        * Bismark Abban: [Instagram Profile](https://www.instagram.com/bismark.abban/)
+        * Bismark Abban:[Instagram Profile](https://www.instagram.com/bismark.abban/)
 
         
 ## Installation
