@@ -28,10 +28,10 @@ To run the CharityConnect static website locally, follow these steps:
 
 The CharityConnect website allows users to explore various charitable causes and organizations, learn more about their missions and impact, and make donations to support these causes. Here are some key features and functionalities:
 
-    * Browse through a curated list of charitable causes and organizations.
-    * View detailed information about each cause, including their mission, goals, and impact.
-    * Make donations securely and easily through the website.
-    * Stay updated with the latest news and events related to the causes and organizations.
+  * Browse through a curated list of charitable causes and organizations.
+  * View detailed information about each cause, including their mission, goals, and impact.
+  * Make donations securely and easily through the website.
+  * Stay updated with the latest news and events related to the causes and organizations.
 
 Feel free to explore the website, learn about different causes, and make a positive impact by contributing to the causes you resonate with.
 
@@ -39,12 +39,12 @@ Feel free to explore the website, learn about different causes, and make a posit
 
 Contributions to the CharityConnect project are welcome! If you would like to contribute, please follow these guidelines:
 
-    1. Fork the repository.
-    2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`
-    3. Make your changes and test thoroughly.
-    4. Commit your changes: `git commit -m "Add feature or fix bug"`
-    5. Push to the branch: `git push origin feature-name`
-    6. Open a pull request, describing your changes and any relevant information.
+  1. Fork the repository.
+  2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`
+  3. Make your changes and test thoroughly.
+  4. Commit your changes: `git commit -m "Add feature or fix bug"`
+  5. Push to the branch: `git push origin feature-name`
+  6. Open a pull request, describing your changes and any relevant information.
 
 Please ensure that your contributions align with the project's goals and follow the code of conduct.
 
@@ -59,6 +59,6 @@ These projects share similar goals or technologies and can provide additional in
 
 ## Licensing
 
-The CharityConnect project is licensed under the [MIT License](https://opensource.org/license/mit/). Please review the license file for more information about the permissions and limitations of the license.
+The CharityConnect project is licenseThis README.md provides an overview of the CharityConnect static website project, including installation instructions, usage guidelines, information about contributing, related projects, and licensing details.d under the [MIT License](https://opensource.org/license/mit/). Please review the license file for more information about the permissions and limitations of the license.
 
 This README.md provides an overview of the CharityConnect static website project, including installation instructions, usage guidelines, information about contributing, related projects, and licensing details.
