@@ -22,7 +22,7 @@ To run the CharityConnect static website locally, follow these steps:
 
   * Clone the repository: git clone (https://github.com/yourusername/charityconnect.git)
   * Navigate to the project directory: `cd charityconnect`
-  * Open the index.html file in your preferred web browser.
+  * Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
